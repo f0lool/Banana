@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ac4e1fc7c7e79e0419fc157690d636df, type: 3}
+  m_Name: Level 8
+  m_EditorClassIdentifier: 
+  Index: 8
+  Unlock: 0
+  Complete: 0
+  NameScene: Level 8
+  NeedLevelComplete: {fileID: 11400000, guid: a8e81d86d56912844919573d50009018, type: 2}
+  IconLevelSprite: {fileID: 21300000, guid: 8c054e5826c09a048918cd0100459387, type: 3}

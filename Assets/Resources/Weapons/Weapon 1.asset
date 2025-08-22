@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cbf62ead1ad7cf04eb9a5d08b04f3f90, type: 3}
+  m_Name: Weapon 1
+  m_EditorClassIdentifier: 
+  WeaponSprite: {fileID: 21300000, guid: 36a34f10a33385144bfafcffd526411d, type: 3}
+  IconWeaponSprite: {fileID: 21300000, guid: 4382488da87afbd4b9019eddf777d624, type: 3}
+  WeaponName: Gun
+  MagazineSize: 12
+  ReloadCooldown: 0.5
+  ProjectileStats: {fileID: 11400000, guid: 6618cdb3c1025ae40b02a8669ba0bf25, type: 2}
+  MuzzlePosition: {x: 0.7, y: 0.23}
+  ShootForce: 50
+  CooldownBetweenShots: 0.3
+  BulletLifeTime: 0.3
+  MuzzleFlash: {fileID: 2243329413725445100, guid: d7366a00e722d354ba622c254eb05959, type: 3}
+  IsAutoFire: 0
+  Unlock: 1
+  IsLaser: 0
+  ConditionType: 0
+  NeedLevelComplete: {fileID: 0}

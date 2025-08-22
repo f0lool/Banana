@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8f8735fe3845f9b45bef89a546bafa86, type: 3}
+  m_Name: GameConfig
+  m_EditorClassIdentifier: 
+  WeaponStats: {fileID: 11400000, guid: 6a4f87f49f3eb9c40ac633f8180fac74, type: 2}
+  PlayerStats: {fileID: 11400000, guid: 769073083aee6e74eaf8f09ed414d5b4, type: 2}
+  LevelType: 0
+  LevelIndex: 0
+  LevelConfig: {fileID: 11400000, guid: aa0cb1b9f5d7af343a283ec1a41bda11, type: 2}

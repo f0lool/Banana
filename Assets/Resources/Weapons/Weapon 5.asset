@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cbf62ead1ad7cf04eb9a5d08b04f3f90, type: 3}
+  m_Name: Weapon 5
+  m_EditorClassIdentifier: 
+  WeaponSprite: {fileID: 21300000, guid: b4f3324303561164c9658db54e8b59ff, type: 3}
+  IconWeaponSprite: {fileID: 21300000, guid: d2c96c796ca2bea41a4686547548fbc3, type: 3}
+  WeaponName: Plazma
+  MagazineSize: 20
+  ReloadCooldown: 1
+  ProjectileStats: {fileID: 11400000, guid: 28288b8805a6f3043afefbb1ed22b9d3, type: 2}
+  MuzzlePosition: {x: 1.15, y: 0.38}
+  ShootForce: 50
+  CooldownBetweenShots: 0.15
+  BulletLifeTime: 0.3
+  MuzzleFlash: {fileID: 2243329413725445100, guid: 4b04448a9bc4d2749b3173aff29f6470, type: 3}
+  IsAutoFire: 1
+  Unlock: 0
+  IsLaser: 0
+  ConditionType: 0
+  NeedLevelComplete: {fileID: 11400000, guid: e33d8b1845fd4bb4a9c9ca9c0523f0b5, type: 2}
